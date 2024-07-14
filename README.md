@@ -10,8 +10,6 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discordapp.com/users/911538040441294848" alt="Discord" title="Discord"><img width="32px" src="assets/discord.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/ipronoypatra/" alt="Instagram" title="Instagram"><img width="32px" src="assets/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/pronoypatra/" alt="LinkedIn" title="LinkedIn"><img width="32px" src="assets/linkedin.svg"/></a>
@@ -55,12 +53,7 @@
   <!-- Small repo cards - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     Coming soon.. <br> 
-<!--     <a href="https://github.com/Ashish-Chokhani/Stereo_Camera_Callibration"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashish-Chokhani&repo=Stereo_Camera_Callibration&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Stereo_Camera_Callibration"></a>
-    <a href="https://github.com/Ashish-Chokhani/Encoder-Decoder-with-Attention"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Ashish-Chokhani&repo=Encoder-Decoder-with-Attention&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Encoder-Decoder-with-Attention"></a>
-    <a href="https://github.com/Ashish-Chokhani/Dkeeper-App"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashish-Chokhani&repo=Dkeeper-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dkeeper-App"></a>
-    <a href="https://github.com/Ashish-Chokhani/ECG-Monitoring-and-Transmission"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashish-Chokhani&repo=ECG-Monitoring-and-Transmission&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ECG-Monitoring-and-Transmission"></a>
-    <a href="https://github.com/Ashish-Chokhani/Simon-game"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashish-Chokhani&repo=Simon-game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Simon-game"></a>
-    <a href="https://github.com/Ashish-Chokhani/Regression-ML-for-Circuit-Performance-Prediction"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashish-Chokhani&repo=Regression-ML-for-Circuit-Performance-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Regression-ML-for-Circuit-Performance-Prediction"></a> -->
+<!--     <a href="https://github.com/Ashish-Chokhani/Stereo_Camera_Callibration"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashish-Chokhani&repo=Stereo_Camera_Callibration&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Stereo_Camera_Callibration"></a>-->
   </p>
 
   <br>
@@ -201,15 +194,15 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="#"><img alt="Pronoy Patra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Ashish-Chokhani&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="#"><img alt="Pronoy Patra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Chokhani&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="#"><img alt="Pronoy Patra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pronoypatra&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="#"><img alt="Pronoy Patra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pronoypatra&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <h6> <b>Note:</b> "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6><br>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="#"><img alt="Pronoy Patra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ashish-Chokhani&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="#"><img alt="Pronoy Patra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pronoypatra&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <!-- <h3>⚡ Recent GitHub Activity</h3> -->
 
